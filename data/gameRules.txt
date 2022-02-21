@@ -1,0 +1,24 @@
+<html>
+Welcome to our Boggle Game!<br>
+<br>
+Players have 4 minutes to find as many words as they can according to our following rules:<br>
+ 	• The letters must be in a chain by being adjacent horizontally, vertcally or diagonally<br>
+	• Words must be at least 2 letters long<br>
+	• No letters selected can be repeated again<br>
+	• Note that although 'Qu' appears on one box it will be counted as 2 letters.<br>
+• The game is over as soon as the time is up. Try to get as many points as possible.<br>
+• Words found elsewhere on the board will not be counted again. Thus you will not be awarded points for doing so.<br>
+• Singular and plural versions of words are allowed to be found. For instance, "chew" and "chewed" can be used.<br>
+• Words that exist within other words can be used. For instace, 'racecar' can be split into 'race' and 'car'.<br>
+<br>
+<br>
+The scoring will be as followed:<br>
+<br>
+2-4 letter words = 1 point<br>
+5 letter words = 2 points<br>
+6 letter words = 3 points<br>
+7 letter words = 5 points<br>
+8 letters or more = 11 points<br>
+<br>
+Enjoy!<br>
+</html>	
