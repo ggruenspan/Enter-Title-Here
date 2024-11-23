@@ -1,7 +1,7 @@
 
-# Enter-Title-Here
+# Enter Title Here
 
-**Enter-Title-Here** is a Boggle replica developed with Java. It features an interactive GUI where users can select multiple letters to form words, check if the word is valid, and earn points based on the word's length.
+**Enter Title Here** is a Boggle replica developed with Java. It features an interactive GUI where users can select multiple letters to form words, check if the word is valid, and earn points based on the word's length.
 
 ## Table of Contents
 1. [Features](#features)  
